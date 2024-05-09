@@ -1,5 +1,7 @@
 ## Building a production grade API with Cloudfare workers, Hono and Upstash
 
+![image](https://github.com/JaguarsCodehub/api-profane-production/assets/82316591/ee842298-2b66-4c5c-91f7-bd1499070c38)
+
 - Using Vector Database to store each index of the word and distribute words in chunks
 - Using Similarity Index to guess profane words
 
