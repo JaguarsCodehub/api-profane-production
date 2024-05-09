@@ -1,0 +1,7 @@
+name = "api-profane-production"
+compatibility_date = "2024-05-08"
+
+[vars]
+VECTOR_URL = 'https://awake-barnacle-55467-us1-vector.upstash.io'
+VECTOR_TOKEN = 'ABgFMGF3YWtlLWJhcm5hY2xlLTU1NDY3LXVzMWFkbWluT1RobU16WXhNVFF0TkdSaFl5MDBORGc0TFdGa1ptSXRaV1V6WkdObFpHRXdPR05t'
+

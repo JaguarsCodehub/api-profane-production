@@ -1,0 +1,26 @@
+{
+  "name": "api-profanity-production",
+  "version": "1.0.0",
+  "description": "A Production grade API",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "wrangler deploy --minify index.ts",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "API"
+  ],
+  "author": "jyotindrakt",
+  "license": "ISC",
+  "dependencies": {
+    "@upstash/vector": "^1.0.7",
+    "csv-parser": "^3.0.0",
+    "hono": "^4.3.3",
+    "langchain": "^0.1.36"
+  },
+  "devDependencies": {
+    "@types/node": "^20.12.10",
+    "tsx": "^4.9.3",
+    "wrangler": "^3.53.1"
+  }
+}
